@@ -108,9 +108,8 @@ const foods = (objects, string) => {
 const payMenu = (objects, string) => {
   let value1 = foods(objects, string);
   let value2 = drinks(objects, string);
-  return value1 + value2;
+  return (value1 + value2);
 };
-
 const createMenu = (objects) => (
   { fetchMenu: () => (objects), consumption: [], order: myMenu, pay: payMenu }
   );

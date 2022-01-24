@@ -117,9 +117,9 @@ describe('10 - Implemente os casos de teste e a função `createMenu`', () => {
     let value = 0;
     for (let elem of ord) {
       if (elem === 'coxinha') {
-        value += 3.90;
+        value += 3.90 + 0.1 * 3.90;
        } else { 
-        value += 3.80; 
+        value += 3.80 + 0.1 * 3.80; 
       }
     }
     return value;

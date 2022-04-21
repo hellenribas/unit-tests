@@ -11,8 +11,8 @@ Implementei várias funções para atender aos requisitos propostos pela Trybe
 - Um dos primeiros projetos utilizando testes unitários.
 
  ---
-O projeto foi proposto pela Trybe, onde faço curso de desenvolvimento web full stack
-E os arquivos `circle.js`, `getCharacter.js`, `myCounter.js`, `numbers.js`, `productDetails.js` foram criados e desevolvidos pela Trybe.
+O projeto foi proposto pela Trybe, onde faço curso de desenvolvimento web full stack.
+E os arquivos `circle.js`, `getCharacter.js`, `myCounter.js`, `numbers.js`, `productDetails.js` foram criados e desenvolvidos pela Trybe.
 
 ---
 
